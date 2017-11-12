@@ -1,4 +1,6 @@
 # hello-world
+ARCHIVED on 12 Nov 2017
+
 personal GitHub tutorial repository
 
 Joining GitHub to gain a better grasp on data science,
